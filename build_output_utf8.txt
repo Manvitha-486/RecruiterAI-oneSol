@@ -1,0 +1,792 @@
+﻿
+> frontend@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+npm : [33mnode_modul
+es/framer-motion/dist
+/es/components/Animat
+ePresence/PresenceChi
+ld.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/components/Anima
+tePresence/PresenceCh
+ild.mjs" was 
+ignored.[39m
+At line:1 char:1
++ npm run build > 
+build_output.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: ([33mno   
+ de_modul...s ign    
+ored.[39m:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/LayoutGroup/
+index.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/components/
+LayoutGroup/index.mjs
+" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/AnimatePrese
+nce/PopChild.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/components/
+AnimatePresence/PopCh
+ild.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/LazyMotion/i
+ndex.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/components/
+LazyMotion/index.mjs"
+ was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/MotionConfig
+/index.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/components/
+MotionConfig/index.mj
+s" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/mo
+tion/utils/use-visual
+-state.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/motion/util
+s/use-visual-state.mj
+s" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-force-update.
+mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/utils/use-force-
+update.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-isomorphic-ef
+fect.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/utils/use-i
+somorphic-effect.mjs"
+ was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-unmount-effec
+t.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/utils/use-unmoun
+t-effect.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/dom/features-min
+.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/render/dom/featu
+res-min.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/dom/features-ani
+mation.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/render/dom/
+features-animation.mj
+s" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/dom/features-max
+.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/render/dom/featu
+res-max.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-motion-value-
+event.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/utils/use-m
+otion-value-event.mjs
+" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-motion-value.
+mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/value/use-motion
+-value.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-motion-templa
+te.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/value/use-motion
+-template.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-follow-value.
+mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/value/use-follow
+-value.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-spring.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/value/use-s
+pring.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-scroll.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/value/use-s
+croll.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-time.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/value/use-t
+ime.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-will-change/i
+ndex.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/value/use-w
+ill-change/index.mjs"
+ was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-velocity.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/value/use-v
+elocity.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-transform.mjs
+ (1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/value/use-t
+ransform.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/reduced-motion/us
+e-reduced-motion-conf
+ig.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/utils/reduced-mo
+tion/use-reduced-moti
+on-config.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/an
+imation/hooks/use-ani
+mate.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/animation/h
+ooks/use-animate.mjs"
+ was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/AnimatePrese
+nce/use-presence.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/components/
+AnimatePresence/use-p
+resence.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/an
+imation/hooks/use-ani
+mate-style.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/animation/h
+ooks/use-animate-styl
+e.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/an
+imation/hooks/use-ani
+mation.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/animation/h
+ooks/use-animation.mj
+s" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ev
+ents/use-dom-event.mj
+s (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/events/use-dom-e
+vent.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/AnimatePrese
+nce/use-presence-data
+.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/components/Anima
+tePresence/use-presen
+ce-data.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-animation-fra
+me.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/utils/use-animat
+ion-frame.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-cycle.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/utils/use-c
+ycle.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-in-view.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/utils/use-i
+n-view.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-page-in-view.
+mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/utils/use-page-i
+n-view.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-instant-trans
+ition.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/utils/use-i
+nstant-transition.mjs
+" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/LayoutGroupCont
+ext.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/context/Lay
+outGroupContext.mjs" 
+was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/MotionConfigCon
+text.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/context/Mot
+ionConfigContext.mjs"
+ was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/PresenceContext
+.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/context/Presence
+Context.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/MotionContext/i
+ndex.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/context/Mot
+ionContext/index.mjs"
+ was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/SwitchLayoutGro
+upContext.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/context/Swi
+tchLayoutGroupContext
+.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/DeprecatedLayou
+tGroupContext.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/context/Dep
+recatedLayoutGroupCon
+text.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/an
+imation/hooks/use-ani
+mated-state.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/animation/h
+ooks/use-animated-sta
+te.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/AnimateShare
+dLayout.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/components/
+AnimateSharedLayout.m
+js" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-inverted-scal
+e.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/value/use-invert
+ed-scale.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/AnimatePrese
+nce/index.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/components/
+AnimatePresence/index
+.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/reduced-motion/us
+e-reduced-motion.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/utils/reduc
+ed-motion/use-reduced
+-motion.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-constant.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/utils/use-c
+onstant.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/LazyContext.mjs
+ (1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/context/Laz
+yContext.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/ut
+ils/use-is-mounted.mj
+s (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/utils/use-is-mou
+nted.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-computed.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/value/use-c
+omputed.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/va
+lue/use-combine-value
+s.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/value/use-combin
+e-values.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/Reorder/Item
+.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/components/Reord
+er/Item.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+mponents/Reorder/Grou
+p.mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/components/Reord
+er/Group.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/mo
+tion/index.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/motion/inde
+x.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/mo
+tion/features/layout/
+MeasureLayout.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/motion/feat
+ures/layout/MeasureLa
+yout.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/ReorderContext.
+mjs (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/context/ReorderC
+ontext.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/dom/use-render.m
+js (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/render/dom/use-r
+ender.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/co
+ntext/MotionContext/c
+reate.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/context/Mot
+ionContext/create.mjs
+" was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/html/use-html-vi
+sual-state.mjs 
+(1:0): Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/render/html
+/use-html-visual-stat
+e.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/svg/use-svg-visu
+al-state.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/render/svg/
+use-svg-visual-state.
+mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/mo
+tion/utils/use-motion
+-ref.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/motion/util
+s/use-motion-ref.mjs"
+ was ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/mo
+tion/utils/use-visual
+-element.mjs (1:0): 
+Module level 
+directives cause 
+errors when bundled, 
+"use client" in "node
+_modules/framer-motio
+n/dist/es/motion/util
+s/use-visual-element.
+mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/html/use-props.m
+js (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/render/html/use-
+props.mjs" was 
+ignored.[39m
+[33mnode_modules/fra
+mer-motion/dist/es/re
+nder/svg/use-props.mj
+s (1:0): Module 
+level directives 
+cause errors when 
+bundled, "use 
+client" in "node_modu
+les/framer-motion/dis
+t/es/render/svg/use-p
+rops.mjs" was 
+ignored.[39m
+[32mÔ£ô[39m 2111 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                 [39m[1m[2m  0.46 kB[22m[1m[22m[2m Ôöé gzip:   0.29 kB[22m
+[2mdist/[22m[35massets/index-DhyuA09u.css  [39m[1m[2m 35.96 kB[22m[1m[22m[2m Ôöé gzip:   6.68 kB[22m
+[2mdist/[22m[36massets/index-BBtVPuky.js   [39m[1m[2m345.08 kB[22m[1m[22m[2m Ôöé gzip: 110.29 kB[22m
+[32mÔ£ô built in 23.98s[39m

@@ -1,0 +1,33 @@
+﻿
+> frontend@0.0.0 lint
+> eslint .
+
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\App.jsx
+  14:10  error  'count' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u     no-unused-vars
+  14:17  error  'setCount' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\Section1.jsx
+  3:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\Section2.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\Section3.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\Section4.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\Section5.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u        no-unused-vars
+  2:64  error  'useTransform' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\Section6.jsx
+  3:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\Lakshmidhar\Downloads\RecruiterAI-master (1)\RecruiterAI-master\Frontend\src\Section7.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+Ô£û 10 problems (10 errors, 0 warnings)
+
