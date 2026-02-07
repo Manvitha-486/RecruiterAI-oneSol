@@ -119,7 +119,7 @@ export default function Section3() {
   ];
 
   return (
-    <section className="relative w-full bg-black text-white py-24 px-6 md:px-16 overflow-hidden flex flex-col items-center">
+    <section id="features" className="relative w-full bg-black text-white py-24 px-6 md:px-16 overflow-hidden flex flex-col items-center">
 
       {/* HEADER */}
       <h2 className="text-center text-4xl md:text-5xl font-bold mb-20 max-w-4xl leading-tight">

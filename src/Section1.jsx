@@ -46,14 +46,36 @@ export default function HeroSection() {
         </div>
 
         <div className="hidden md:flex gap-10 text-gray-300">
-          <a href="#">Features</a>
-          <a href="#">Use Cases</a>
-          <a href="#">Pricing</a>
+          <a href="#features">Features</a>
+          <a href="#use-cases">Use Cases</a>
+          <a href="#pricing">Pricing</a>
         </div>
 
-        <button className="border border-purple-400 px-6 py-2 rounded-full hover:bg-purple-500 transition">
-          Get Started
-        </button>
+        <motion.button
+          onClick={() => document.getElementById("pricing")?.scrollIntoView({ behavior: "smooth" })}
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95 }}
+          className="relative px-6 py-2 rounded-full border border-purple-500 bg-transparent overflow-hidden group">
+
+          <span className="relative z-10 group-hover:text-white transition-colors duration-300">
+            Get Started
+          </span>
+
+          <div className="absolute inset-0 bg-purple-600 opacity-0 group-hover:opacity-20 transition-opacity duration-300" />
+
+          {/* SWOOSH ANIMATION */}
+          <motion.div
+            initial={{ left: "-100%" }}
+            animate={{ left: "200%" }}
+            transition={{
+              duration: 1.5,
+              ease: "easeInOut",
+              repeat: Infinity,
+              repeatDelay: 3
+            }}
+            className="absolute top-0 w-1/2 h-full bg-gradient-to-r from-transparent via-white/20 to-transparent skew-x-12"
+          />
+        </motion.button>
       </motion.nav>
 
       {/* CENTER CONTENT - STAGGERED FADE UP */}

@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 export default function Section7() {
 
   return (
-    <section className="relative w-full bg-[#000000] text-white py-15
+    <section id="pricing" className="relative w-full bg-[#000000] text-white py-15
      px-4 overflow-hidden ">
 
 

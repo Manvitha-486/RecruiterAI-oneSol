@@ -16,7 +16,7 @@ export default function RecruiterFlowSection() {
 
   return (
 
-    <section className="bg-black text-white py-24 overflow-hidden">
+    <section id="use-cases" className="bg-black text-white py-24 overflow-hidden">
 
       <div className="w-full grid lg:grid-cols-2 gap-12 lg:gap-20 items-center px-6 md:px-16">
 
