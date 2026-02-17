@@ -1,16 +1,139 @@
-# React + Vite
+# 🤖 Recruit AI
+AI-Powered Smart Recruitment Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Recruit AI is an intelligent recruitment platform built using the MERN stack.
+It streamlines the hiring process by automatically analyzing resumes,
+matching candidates with job descriptions, and ranking them based on relevance.
 
-## React Compiler
+The goal is to reduce manual screening time and improve hiring efficiency.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Secure Authentication (JWT-based)
+- Resume Upload (PDF)
+- Resume Parsing & Skill Extraction
+- Job Description Matching
+- Candidate Scoring & Ranking
+- Recruiter Dashboard
+- Responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+Frontend:
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+
+AI Logic:
+- Keyword matching algorithm
+- Skill extraction logic
+
+---
+
+## 📁 Project Structure
+
+Recruit-AI/
+│
+├── client/              # React Frontend
+├── server/              # Express Backend
+├── models/              # MongoDB Schemas
+├── routes/              # API Routes
+├── controllers/         # Business Logic
+├── utils/               # AI / Matching Logic
+└── README.md
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+
+git clone https://github.com/your-username/recruit-ai.git
+cd recruit-ai
+
+2. Install Backend Dependencies
+
+cd server
+npm install
+
+3. Install Frontend Dependencies
+
+cd ../client
+npm install
+
+4. Setup Environment Variables
+
+Create a .env file inside the server folder:
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
+
+5. Run the Application
+
+Start Backend:
+
+cd server
+npm start
+
+Start Frontend:
+
+cd client
+npm start
+
+Application URLs:
+
+Frontend: http://localhost:3000
+Backend:  http://localhost:5000
+
+---
+
+## 🧠 How AI Matching Works
+
+1. Resume text is extracted from uploaded PDF.
+2. Skills and keywords are identified.
+3. Job description is analyzed.
+4. Matching score is calculated based on:
+   - Skill overlap
+   - Keyword frequency
+   - Relevant experience
+5. Candidates are ranked based on score.
+
+---
+
+## 🔮 Future Enhancements
+
+- OpenAI API integration for advanced analysis
+- Admin panel
+- Email notifications
+- Cloud storage integration
+- Machine learning-based ranking
+
+---
+
+## 👩‍💻 Author
+
+J. Shree Manvitha Reddy
+GitHub: https://github.com/Manvitha-486
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a star on GitHub!
